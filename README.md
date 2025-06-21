@@ -148,9 +148,3 @@ This system also displays a live seating arrangement, marks booked seats, and up
 1. Add payment gateway integration.
 2. Include route-specific fares.
 3. Support multi-language localization.
-
----
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
