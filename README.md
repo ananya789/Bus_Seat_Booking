@@ -151,12 +151,6 @@ This system also displays a live seating arrangement, marks booked seats, and up
 
 ---
 
-### **Acknowledgements**
-Special thanks to **Mr. G. Sunil Reddy Sir**, **Dileep Nagendra Sir**, and **LogicWhile** for their guidance and mentorship.
-
----
-
-### **License**
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
